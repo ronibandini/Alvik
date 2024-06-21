@@ -5,3 +5,6 @@ Programas y tutoriales para el robot Arduino Alvik
 
 1. Detección de obstáculos por Time of flight central, manejo del LED RGB, lectura de botón, notificación por Telegram
 https://www.youtube.com/watch?v=65dEOCcai88
+
+2. Explorar y reportar
+Explora el terreno y reporta a una base remota usando ESPNow. Para la base remota es necesario usar un Firebeetle 2 conectado a una pantalla TFT 320x240 con cable GDI. Asimismo es necesario obtener el MAC address del Firebeetle y configurarlo en el script del Alvik
