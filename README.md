@@ -14,3 +14,6 @@ Control remoto para el robot Alvik usando ESP32 y un joystick
 
 4. Computer Vision
 Reconoce una pelota y una figura Lego para tomar acciones determinadas
+
+5. Detección de humo y gas metano
+Usa sensor de gas metano y humo reportando a pantalla remota vía ESPNow
