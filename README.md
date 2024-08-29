@@ -17,3 +17,6 @@ Reconoce una pelota y una figura Lego para tomar acciones determinadas
 
 5. Detección de humo y gas metano
 Usa sensor de gas metano y humo reportando a pantalla remota vía ESPNow
+
+6. Disco Lights
+Show de luces que aprovecha cada led disponible del Alvik
