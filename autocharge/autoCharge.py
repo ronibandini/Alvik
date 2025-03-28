@@ -124,7 +124,7 @@ kp = 50.0
 baseSpeed = 15
 chargingTime=8
 lineLimit=250
-batteryLimit=105
+batteryLimit=30
 chargingPath=0
 
 alvik.left_led.set_color(0, 0, 1)
