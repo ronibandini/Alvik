@@ -1,6 +1,8 @@
 # Alvik
 Programas y tutoriales para el robot Arduino Alvik
 
+![Uploading AlvikSelfCharging.png…]()
+
 # Programas
 
 1. Detección de obstáculos por Time of flight central, manejo del LED RGB, lectura de botón, notificación por Telegram
