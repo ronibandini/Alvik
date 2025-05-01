@@ -1,8 +1,6 @@
-Arduino Alvik Autocharge prototype
+# Arduino Alvik Autocharge prototype
 
-Note: Alvik is not charging while on, so I'm solving this issue.
-
-Roni Bandini, March 2025
+Update May, 1, 2025: After struggling with several parts of the auto-charging system - such as base alignment, coupling, and wireless power transfer - I discovered that Alvik doesn't charge the internal battery through VIN/GND while it's powered on. I'm currently analyzing options to overcome this issue and will post updates soon.
 
 I decided to modify the Arduino Alvik to install a basic self-charging system without adding any sensors beyond those that come factory-installed.
 
