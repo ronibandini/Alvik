@@ -1,4 +1,7 @@
 Arduino Alvik Autocharge prototype
+
+Note: Alvik is not charging while on, so I'm solving this issue.
+
 Roni Bandini, March 2025
 
 I decided to modify the Arduino Alvik to install a basic self-charging system without adding any sensors beyond those that come factory-installed.
