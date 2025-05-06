@@ -1,7 +1,8 @@
 # Alvik
 Programas y tutoriales para el robot Arduino Alvik
 
-![Uploading AlvikSelfCharging.png…]()
+![AlvikSelfCharging](https://github.com/user-attachments/assets/d389c1cb-3822-4fca-b484-069e49cbd04c)
+
 
 # Programas
 
