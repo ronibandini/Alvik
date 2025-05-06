@@ -38,7 +38,8 @@ Cómo conectar un micrófono al Arduino Alvik y hacerlo bailar al ritmo
 https://www.youtube.com/shorts/u5XpsL5_-AA
 
 9. Autocharge
-Propuesta de un sistema de autocarga para el Arduino Alvik. Cuando la batería baja, sigue el camino a la base de carga, se carga con wireless charging y continua la marcha.
+Prototipo de un sistema de autocarga para el Arduino Alvik. Cuando la batería baja, sigue el camino a la base de carga, se carga con wireless charging y continua la marcha.
+https://github.com/ronibandini/Alvik/tree/main/autocharge
 
 📫 Por personalizaciones, talleres de robótica y proyectos Arduino y Raspberry 
 https://www.instagram.com/ronibandini/ 
